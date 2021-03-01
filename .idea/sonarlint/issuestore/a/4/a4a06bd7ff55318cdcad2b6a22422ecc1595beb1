@@ -1,0 +1,13 @@
+
+b
+java:S1192"GDefine a constant instead of duplicating this literal "Helion" 3 times.(ÊÍÁÎ8Øéõ¬ù.
+g
+java:S1192"LDefine a constant instead of duplicating this literal "programming" 3 times.(ÊÍÁÎ8Øéõ¬ù.
+e
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ8ÅÕ –ù.
+W
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(Œ’Ğìùÿÿÿÿ8Øéõ¬ù.
+V
+java:S2696"6Make the enclosing method "static" or remove this set.(òŸÎçøÿÿÿÿ8Øéõ¬ù.
+W
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(Í×ùÿÿÿÿ8Øéõ¬ù.
